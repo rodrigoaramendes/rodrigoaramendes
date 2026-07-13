@@ -34,10 +34,5 @@ I am a researcher focused on computational/theoretical chemistry and scientific 
 
 ---
 
-### 📈 GitHub Activity
-![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigoaramendes&show_icons=true&hide_title=true&count_private=true&theme=default)
-
----
-
 ### 📫 Contact
 If you’d like to discuss research, collaboration, or software development, feel free to reach out through LinkedIn or any of the academic platforms above.
