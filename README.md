@@ -21,7 +21,6 @@ I am a researcher focused on computational/theoretical chemistry and scientific 
   - Coupled Cluster Theory  
 - Molecular Dynamics
   - Energy Storage
-  - Solvent Effects on Excited States
 - Scientific Software Development  
 - High‑Performance Computing  
 
